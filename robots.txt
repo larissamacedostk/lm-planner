@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://larissamacedostk.github.io/lm-planner/sitemap.xml
